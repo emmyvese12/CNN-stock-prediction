@@ -1,4 +1,4 @@
-Emmy Veselinov, Jubayer Ahmed, Eric Li
+Authors: Emmy Veselinov, Jubayer Ahmed, Eric Li
 # Stock Prediction with CNN-TA
 
 Building and using a CNN to predict hold, buy, and sell points on historical time series stock data.
