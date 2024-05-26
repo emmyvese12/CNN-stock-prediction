@@ -39,7 +39,7 @@ A set of 500 financial indicators are calculated from the IBM data set. The 225 
 3. Calculate Initial Indicators - Financial indicators calculated from IBM data using sliding windows to create initial 225 features.  
 4. Original Stock CNN - CNN model proposed by Sezer et al. is defined, trained, and validated.
 5. Expand Indicators - Additional indicators are calculated to increase number of features.
-6. Feature Selection - Univariate feature selection to select 225 best features.
+6. Feature Selection - Univariate feature selection to select top 225 best features.
 7. Stock CNN 2k - Modified CNN model is defined, trained, validated, and tested on IBM data from 2004-2019.
 8. Backtester - Backtesting using trained IBM model on a given stock to measure financial success of CNN on the market.
 10. Animal CNN - Modified CNN architecture is trained and tested using CIFAR-10 dataset.
